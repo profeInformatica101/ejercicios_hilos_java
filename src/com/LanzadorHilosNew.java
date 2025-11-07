@@ -1,6 +1,6 @@
 package com;
 
-public class LanzadorHilosNew {
+public class LanzadorHilosBlocked {
 
 	private static final Object LOCK = new Object();
 	
