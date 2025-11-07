@@ -1,6 +1,6 @@
 package com;
 
-public class LanzadorHilosNew {
+public class LanzadorHilosRunnable {
 
 	public static void main(String[] args) throws InterruptedException{
 		// TODO Auto-generated method stub
