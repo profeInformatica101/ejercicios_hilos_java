@@ -6,7 +6,7 @@ public class Ejercicio4 {
 
 	public static void main(String [] args) {
 		//Crea un Thread cuyo run() haga sleep(500).
-		Thread hilo = new Thread(() -> {
+		Thread hilo = new Thread(()->{
 			System.out.println("Hilo: ");
 			try {
 				Thread.sleep(500);
